@@ -17,10 +17,10 @@
 
 ## Use Cases
 
-* [도자](use-cases/undefined/README.md)
-  * [2021](use-cases/undefined/2021.md)
-  * [2022](use-cases/undefined/2022.md)
 * [For Engineers](use-cases/for-engineers/README.md)
+  * [도자](use-cases/for-engineers/undefined/README.md)
+    * [2021](use-cases/for-engineers/undefined/2021.md)
+    * [2022](use-cases/for-engineers/undefined/2022.md)
   * [GitHub Integration](use-cases/for-engineers/github-integration.md)
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
