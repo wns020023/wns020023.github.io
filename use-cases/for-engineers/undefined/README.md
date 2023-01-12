@@ -1,6 +1,7 @@
 ---
 cover: ../../../.gitbook/assets/동심 - 접시 세트
-coverY: 0
+coverY: -86
+layout: landing
 ---
 
 # 도자
