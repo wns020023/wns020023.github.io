@@ -1,10 +1,8 @@
 ---
-cover: ../../../.gitbook/assets/동심 - 접시 세트
-coverY: -86
-layout: landing
+description: 결과물 위주의 사진 업로드
 ---
 
-# 도자
+# 작업
 
 {% hint style="info" %}
 **Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
